@@ -25,7 +25,7 @@ Ensure you have the following installed on your local machine:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/ylvnb/expense-tracker.git
+    git clone https://github.com/NagaBharadwaj/expense-tracker.git
     ```
 
 2. Navigate to the project directory:
